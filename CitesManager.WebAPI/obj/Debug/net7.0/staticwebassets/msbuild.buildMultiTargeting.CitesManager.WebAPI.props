@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CitesManager.WebAPI.props" />
+</Project>
